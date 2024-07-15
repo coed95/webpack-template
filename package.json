@@ -4,9 +4,9 @@
     "description": "template",
     "main": "index.js",
     "scripts": {
-        "test": "jest",
-        "build": "webpack --progress --mode=production",
-        "watch": "webpack --progress --watch"
+      "test": "jest",
+      "build": "webpack --progress --mode=production",
+      "watch": "webpack --progress --watch"
     },
     "keywords": [
         "template",
