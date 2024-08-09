@@ -16,7 +16,7 @@
     "author": "coed",
     "license": "ISC",
     "devDependencies": {
-        "@babel/preset-env": "^7.24.8",
+        "@babel/preset-env": "^7.25.3",
         "babel-jest": "^29.7.0",
         "css-loader": "^7.1.1",
         "html-webpack-plugin": "^5.6.0",
