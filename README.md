@@ -149,7 +149,8 @@ For a new project:
 
 ## Git Ignore
 
-```node_modules/
+```
+node_modules/
 dist/
 ```
 
