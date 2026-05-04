@@ -13,7 +13,8 @@ This template includes support for:
 
 ## Project Structure
 
-```webpack-template/
+```
+webpack-template/
 ├── dist/
 ├── node_modules/
 ├── src/
@@ -90,7 +91,8 @@ Watch files:
 
 ### 1. Create a new project from the template
 
-```git clone <your-repo-url>
+```
+git clone <your-repo-url>
 cd webpack-template
 rm -rf .git
 git init
