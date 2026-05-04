@@ -13,7 +13,7 @@ This template includes support for:
 
 ## Project Structure
 
-webpack-template/
+```webpack-template/
 ├── dist/
 ├── node_modules/
 ├── src/
@@ -24,6 +24,7 @@ webpack-template/
 ├── package-lock.json
 ├── package.json
 └── webpack.config.js
+```
 
 ## Main Files
 
@@ -148,8 +149,9 @@ For a new project:
 
 ## Git Ignore
 
-node_modules/
+```node_modules/
 dist/
+```
 
 node_modules/ is ignored because it can be recreated with npm install.
 
